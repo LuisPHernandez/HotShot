@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+ta
+python-binance
+seaborn 
+plotly 
+ccxt 
+backtrader
